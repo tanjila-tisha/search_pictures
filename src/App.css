@@ -1,0 +1,10 @@
+.pager{
+text-align: center;
+margin: 20px;
+
+}
+.pager-text{
+    text-decoration: underline;
+    padding: 0px 10px;
+    cursor:pointer;
+}
